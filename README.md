@@ -55,7 +55,6 @@ I'm a results-driven web developer focused on building seamless, user-friendly w
 
 ### 📊 GitHub Stats
 
-![Sri Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriharijagan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharijagan&layout=compact&theme=radical)
 
 </div>
